@@ -47,6 +47,7 @@ namespace ConsoleApp1
             Derived d = new Derived();
             d.DoSomethingVirtual();
             d.DoSomethingNonVirtual();
+
         }
     }
 }
